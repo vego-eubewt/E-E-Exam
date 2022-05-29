@@ -17,6 +17,8 @@ it switches to **'Resume'** button if you wish to resume the stopwatch. Furtherm
 the previously **'Lap'** button then switches to **'Reset'**. In simple terms, the button on the lower left has three functions, the **_Start, Stop, and Resume_** while the button on the lower right has two functions, the **_Lap and Reset_**. The features of this Stopwatch is inspired with that of the ios', but, with an additional twist.
 
 > ### Model
+ ![snip](https://user-images.githubusercontent.com/105413684/170876604-815654a7-fb9d-4e0c-b75c-2c2d8da7f379.png)
+
 
 </br>
 </br>
